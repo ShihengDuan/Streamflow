@@ -1,5 +1,6 @@
 # Streamflow
-streamflow projection
+streamflow projection.  
+
 Essential code and notebooks for Using Temporal Convolution Neural Network for Streamflow Projection for California. 
 
 Keras and Tensorflow is used for this project. 
